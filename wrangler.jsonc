@@ -4,8 +4,6 @@
   "compatibility_date": "2026-07-29",
   "observability": { "enabled": true },
   "compatibility_flags": ["nodejs_compat"],
-  "main": ".open-next/worker.js",
-  "assets": { "directory": ".open-next/assets", "binding": "ASSETS" },
   "vars": {
     "NOCODB_URL": "https://nocodb.myki97.app",
     "NOCODB_PROJECT_ID": "pim4rvjuic45zw2",
