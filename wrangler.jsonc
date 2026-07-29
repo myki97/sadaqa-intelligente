@@ -1,0 +1,18 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "sadaqa-intelligente",
+  "compatibility_date": "2026-07-29",
+  "observability": { "enabled": true },
+  "compatibility_flags": ["nodejs_compat"],
+  "vars": {
+    "NOCODB_URL": "https://nocodb.myki97.app",
+    "NOCODB_PROJECT_ID": "pim4rvjuic45zw2",
+    "NOCODB_TABLE_BESOINS": "m1jhmf337xqxzaj",
+    "NOCODB_TABLE_USERS": "m0c3366vy0o8g1p",
+    "NOCODB_TABLE_CONVERSATIONS": "mytr7935r7ton9a",
+    "NOCODB_TABLE_MESSAGES": "mda9upgvdiugjhy",
+    "NEXT_PUBLIC_SOCKET_URL": "http://100.90.186.94:3001",
+    "NEXT_PUBLIC_APP_URL": "https://sadaqa-intelligente.pajotmickael.workers.dev",
+    "NEXTAUTH_SECRET": "sadaqa_secret_change_en_prod"
+  }
+}
